@@ -1,0 +1,16 @@
+D:\приложения\StudyApp1\GallowsGame\bin\Debug\net5.0\GallowsGame.exe
+D:\приложения\StudyApp1\GallowsGame\bin\Debug\net5.0\GallowsGame.deps.json
+D:\приложения\StudyApp1\GallowsGame\bin\Debug\net5.0\GallowsGame.runtimeconfig.json
+D:\приложения\StudyApp1\GallowsGame\bin\Debug\net5.0\GallowsGame.runtimeconfig.dev.json
+D:\приложения\StudyApp1\GallowsGame\bin\Debug\net5.0\GallowsGame.dll
+D:\приложения\StudyApp1\GallowsGame\bin\Debug\net5.0\ref\GallowsGame.dll
+D:\приложения\StudyApp1\GallowsGame\bin\Debug\net5.0\GallowsGame.pdb
+D:\приложения\StudyApp1\GallowsGame\obj\Debug\net5.0\GallowsGame.csproj.AssemblyReference.cache
+D:\приложения\StudyApp1\GallowsGame\obj\Debug\net5.0\GallowsGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\приложения\StudyApp1\GallowsGame\obj\Debug\net5.0\GallowsGame.AssemblyInfoInputs.cache
+D:\приложения\StudyApp1\GallowsGame\obj\Debug\net5.0\GallowsGame.AssemblyInfo.cs
+D:\приложения\StudyApp1\GallowsGame\obj\Debug\net5.0\GallowsGame.csproj.CoreCompileInputs.cache
+D:\приложения\StudyApp1\GallowsGame\obj\Debug\net5.0\GallowsGame.dll
+D:\приложения\StudyApp1\GallowsGame\obj\Debug\net5.0\ref\GallowsGame.dll
+D:\приложения\StudyApp1\GallowsGame\obj\Debug\net5.0\GallowsGame.pdb
+D:\приложения\StudyApp1\GallowsGame\obj\Debug\net5.0\GallowsGame.genruntimeconfig.cache
